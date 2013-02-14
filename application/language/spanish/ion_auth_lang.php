@@ -2,7 +2,7 @@
 /**
 * Name:  Ion Auth Lang - Spanish
 * 
-* Author: Wilfrido Garc�a Espinosa
+* Author: Wilfrido García Espinosa
 * 		  contacto@wilfridogarcia.com
 *         @wilfridogarcia
 * 
@@ -17,7 +17,7 @@
 // Account Creation
 $lang['account_creation_successful'] 	  	 = 'Cuenta creada con éxito';
 $lang['account_creation_unsuccessful'] 	 	 = 'No se ha podido crear la cuenta';
-$lang['account_creation_duplicate_email'] 	 = 'Email en uso o inválido';
+$lang['account_creation_duplicate_email'] 	 = 'Correo electrónico en uso o inválido';
 $lang['account_creation_duplicate_username'] = 'Nombre de usuario en uso o inválido';
 
 
@@ -47,6 +47,6 @@ $lang['delete_successful'] 		 	 = 'Usuario eliminado';
 $lang['delete_unsuccessful'] 		 	 = 'No se ha podido Eliminar el usuario';
 
 // Email Subjects - TODO Please Translate
-$lang['email_forgotten_password_subject']    = 'Forgotten Password Verification';
-$lang['email_new_password_subject']          = 'New Password';
-$lang['email_activation_subject']            = 'Account Activation';
+$lang['email_forgotten_password_subject']    = 'He olvidado la contraseña de verificación';
+$lang['email_new_password_subject']          = 'Nueva contraseña';
+$lang['email_activation_subject']            = 'Activación de cuenta';
