@@ -22,18 +22,18 @@ $lang['account_creation_duplicate_username'] = 'Nombre de usuario en uso o invá
 
 
 // Password
-$lang['password_change_successful'] 	 	 = 'Password cambiado con éxito';
-$lang['password_change_unsuccessful'] 	  	 = 'No se ha podido cambiar el password';
-$lang['forgot_password_successful'] 	 	 = 'Nuevo password enviado por email';
-$lang['forgot_password_unsuccessful'] 	 	 = 'No se ha podido crear un nuevo password';
+$lang['password_change_successful'] 	 	 = 'Contraseña cambiada con éxito';
+$lang['password_change_unsuccessful'] 	  	 = 'No se ha podido cambiar la contraseña';
+$lang['forgot_password_successful'] 	 	 = 'Nueva contraseña enviada por correo electrónico';
+$lang['forgot_password_unsuccessful'] 	 	 = 'No se ha podido crear una nueva contraseña';
 
 // Activation
 $lang['activate_successful'] 		  	 = 'Cuenta activada';
 $lang['activate_unsuccessful'] 		 	 = 'No se ha podido activar la cuenta';
 $lang['deactivate_successful'] 		  	 = 'Cuenta desactivada';
 $lang['deactivate_unsuccessful'] 	  	 = 'No se ha podido desactivar la cuenta';
-$lang['activation_email_successful'] 	  	 = 'Email de activación enviado';
-$lang['activation_email_unsuccessful']   	 = 'No se ha podido enviar el email de activación';
+$lang['activation_email_successful'] 	  	 = 'Correo electrónico enviado para activar cuenta';
+$lang['activation_email_unsuccessful']   	 = 'No se ha podido enviar el correo electrónico de activación';
 
 // Login / Logout
 $lang['login_successful'] 		  	 = 'Sesión iniciada con éxito';
@@ -44,7 +44,7 @@ $lang['logout_successful'] 		 	 = 'Sesión finalizada con éxito';
 $lang['update_successful'] 		 	 = 'Información de la cuenta actualizada con éxito';
 $lang['update_unsuccessful'] 		 	 = 'No se ha podido actualizar la información de la cuenta';
 $lang['delete_successful'] 		 	 = 'Usuario eliminado';
-$lang['delete_unsuccessful'] 		 	 = 'No se ha podido Eliminar el usuario';
+$lang['delete_unsuccessful'] 		 	 = 'No se ha podido eliminar el usuario';
 
 // Email Subjects - TODO Please Translate
 $lang['email_forgotten_password_subject']    = 'He olvidado la contraseña de verificación';
